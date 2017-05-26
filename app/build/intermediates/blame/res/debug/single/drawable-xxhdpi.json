@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\quantum_logo_hangouts_color_44in48.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\quantum_logo_hangouts_color_44in48.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash_bg.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\splash_bg.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_longpressed_holo.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash_repeat_img.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\splash_repeat_img.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pages.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_pages.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_people.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_people.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_vcard_grn.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_vcard_grn.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_home.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photos.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_photos.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_communities.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_communities.png"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_whats_hot.png",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_whats_hot.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radius.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\radius.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_btn_default.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\selector_btn_default.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_radius.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\top_radius.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_shadow.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\drawer_shadow.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_radius.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\bottom_radius.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chat_bottom_radius.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\chat_bottom_radius.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    }
+]

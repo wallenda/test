@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\menu\\splash.xml"
+    }
+]

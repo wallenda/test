@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottom_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\bottom_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\head_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_menu.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\item_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_content.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\frame_content.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\child_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\child_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_chat_option_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\dialog_chat_option_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frame_menu.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\frame_menu.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_item_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\chat_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_register.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_exit_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\dialog_exit_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_setting.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_chat_item_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\right_chat_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_newsub_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\dialog_newsub_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_item_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\search_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "F:\\Project\\XQQ1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_layout.xml",
+        "source": "F:\\Project\\XQQ1\\app\\src\\main\\res\\layout\\group_layout.xml"
+    }
+]

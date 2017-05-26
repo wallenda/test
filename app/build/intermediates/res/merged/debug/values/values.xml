@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="direction">
+        <enum name="rightToLeft" value="0"/>
+        <enum name="bottomToTop" value="1"/>
+        <enum name="leftToRight" value="2"/>
+        <enum name="topToBottom" value="3"/>
+    </attr>
+    <color name="black">#000000</color>
+    <color name="black_bg">#111</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="GIFView"><attr format="integer" name="src"/></declare-styleable>
+    <declare-styleable name="MultiSlidingDrawer"><attr format="reference" name="handle"/><attr format="reference" name="content"/><attr name="direction"/><attr format="dimension" name="bottomOffset"/><attr format="dimension" name="topOffset"/><attr format="boolean" name="allowSingleTap"/><attr format="boolean" name="animateOnClick"/></declare-styleable>
+    <declare-styleable name="SlidingMenu"><attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable>
+    <declare-styleable name="SwitchButton"><attr format="dimension" name="bmWidth"/><attr format="dimension" name="bmHeight"/></declare-styleable>
+    <declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_text_default">15sp</dimen>
+    <dimen name="menu_margin_left">20dp</dimen>
+    <dimen name="shadow_width">30dp</dimen>
+    <dimen name="slidingmenu_offset">200dp</dimen>
+    <item name="selected_view" type="id"/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">XQQ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_friend">查找其他用户</string>
+    <string name="hint_host">服务器地址:www.ithtw.com</string>
+    <string name="hint_port">服务器端口号:5222</string>
+    <string name="hint_username">用户账号</string>
+    <string name="hint_userpwd">用户密码</string>
+    <string name="hint_userpwd_confirm">再次确认密码</string>
+    <string name="onClick">onClick</string>
+    <string name="string">XMPP:www.ithtw.com</string>
+    <string name="string_add">添加</string>
+    <string name="string_again_touch_exit_message">再按一次退出</string>
+    <string name="string_agree">同意</string>
+    <string name="string_cancel">取消</string>
+    <string name="string_chat_copy">复制文本</string>
+    <string name="string_connect">连接中</string>
+    <string name="string_disagree">拒绝</string>
+    <string name="string_exit">确定要退出程序?</string>
+    <string name="string_login">登录</string>
+    <string name="string_ok">确定</string>
+    <string name="string_register">注册</string>
+    <string name="string_save">保存</string>
+    <string name="string_search">搜索</string>
+    <string name="string_send">发送</string>
+    <string name="string_status_offline">离线</string>
+    <string name="string_status_online">在线</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
